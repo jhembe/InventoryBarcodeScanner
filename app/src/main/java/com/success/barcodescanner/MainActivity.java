@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         btnScan.setOnClickListener(v-> {
             ScanOptions options = new ScanOptions();
-            options.setPrompt("Volume up to flash on");
+            options.setPrompt("Volume up to Flash on");
             options.setBeepEnabled(true);
             options.setOrientationLocked(true);
             options.setCaptureActivity(CaptureAct.class);
