@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
            builder.setTitle("Result");
            String barcodeValue = result.getContents();
            builder.setMessage(result.getContents());
-           builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+           builder.setPositiveButton("Okay", new DialogInterface.OnClickListener() {
                @Override
                public void onClick(DialogInterface dialog, int which) {
                    db = FirebaseFirestore.getInstance();
