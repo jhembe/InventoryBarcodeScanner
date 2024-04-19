@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="scan">Scan</string>
+    <string name="barcode_image_Description">Barcode Header Image</string>
+    <string name="note">In order to Remove an item from inventory, you need to scan the barcode. Press the Scan button continue</string>
+    <string name="inventory_scanner">Inventory Scanner</string>
+</resources>

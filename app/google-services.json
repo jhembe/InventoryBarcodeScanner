@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175503530578",
+    "project_id": "inventtest-f47d9",
+    "storage_bucket": "inventtest-f47d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175503530578:android:e0ad875b6a774dbad15d8b",
+        "android_client_info": {
+          "package_name": "com.success.barcodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMmjy8FxaQMqdwuoTy-e8SLxitB8aRfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
